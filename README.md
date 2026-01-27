@@ -1,7 +1,7 @@
 👋 Hi, I’m **Omkar** (@Rakmo5)  
 🎓 Engineering student specializing in **AI & Data Science**  
 🤖 Passionate about **AI development**, Machine Learning, and intelligent systems  
-🌱 Currently learning **TensorFlow** and **Full-Stack Web Development**  
+🌱 Currently learning **Agentic AI Systems** and **Full-Stack Web Development**  
 💡 Building real-world projects — from predictive ML models to personal web tools  
 💞️ Open to collaborating on beginner-friendly or innovative tech projects  
 📫 Reach me at **saphiergold@gmail.com**  
