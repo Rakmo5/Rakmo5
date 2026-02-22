@@ -5,6 +5,7 @@
 💡 Building real-world projects — from predictive ML models to personal web tools  
 💞️ Open to collaborating on beginner-friendly or innovative tech projects  
 📫 Reach me at **saphiergold@gmail.com**  
+🌐 Personal Portfolio : 👉 **[rakmo5.github.io/Portfolio](https://rakmo5.github.io/Portfolio/)**
 ⚡ Fun fact: I'm on a mission to become a great developer, one project at a time.
 
 
